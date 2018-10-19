@@ -8,10 +8,15 @@ A simple application for a user's contact list using Laravel as it's core API an
 * [Vue.js](https://vuejs.org/v2/guide/) - Front-end framework used to create SPA
 * [NPM](https://www.npmjs.com/) - Package manager
 
-> Database Structure
+> Database
 ```
 MySQL Database
 Edit application .env file with the database details
+```
+> Test your DB Config
+
+```php
+php artisan migrate
 ```
 > API URLs
 ```
