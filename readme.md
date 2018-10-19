@@ -6,7 +6,7 @@ A simple application for a user's contact list using Laravel as it's core API an
 
 * [Laravel](https://laravel.com/docs/5.7) - Framework used to build the API and serve the application
 * [Vue.js](https://vuejs.org/v2/guide/) - Front-end framework used to create SPA
-* [NPM](https://www.npmjs.com/) - Front-end framework used to create SPA
+* [NPM](https://www.npmjs.com/) - Package manager
 
 > Database Structure
 ```
